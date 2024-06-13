@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <h2>My socials <img width="40x" height="40px" src="https://img.icons8.com/?size=100&id=CLuWGSvnuOz9&format=png&color=000000" /> </h2>
 
 [![Email Badge](https://img.shields.io/badge/Gmail-efefef?style=for-the-badge&logo=gmail&logoColor=black)](mailto:m.mehdi.paikane@gmail.com)
-[![Email Badge](https://img.shields.io/badge/Telegram-efefef?style=for-the-badge&logo=telegram&logoColor=black)](t.me/paikane)
+[![Email Badge](https://img.shields.io/badge/Telegram-efefef?style=for-the-badge&logo=telegram&logoColor=black)](link.t.me/paikane)
 
 
 <br/>
