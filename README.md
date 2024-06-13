@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**![Banner Image](https://github.com/paikane/paikane/blob/main/banner.gif?raw=true)**  **Hi, I'm Mehdi]!**  
+**![Banner Image](https://github.com/paikane/paikane/blob/main/banner5.gif?raw=true](https://github.com/paikane/paikane/blob/main/banner5.gif?raw=true))**  
+<br/>
+<br/>
+<h2>About Me</h2>
+<p>👋 Hi,I'm Mehdi Paikane, a frontend developer fueled by a passion for crafting beautiful and interactive user experiences. Eager to learn new technologies and push the boundaries of what's possible on the web. Always up for a challenge and excited to collaborate on awesome projects!</p>  
