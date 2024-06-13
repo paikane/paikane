@@ -44,10 +44,16 @@ Here are some ideas to get you started:
 | `Learning` | **![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)** **![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)** |
 <br/>
 <br/>
-<h2>Projects <img width="40x" height="40px" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" /> </h2>
+<h2>Projects <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-news-94.png?raw=true" /> </h2>
 <br/>
 
-
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+| ----- | --- | --- | ---- |
+|`Designlyfe`|[View](readme.com)|[View](readme.com)|`HTML` `CSS`|
+<br/>
+<br/>
+<h2>My GitHub Metrics <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-news-94.png?raw=true" /> </h2>
+<br/>
 
 
 
