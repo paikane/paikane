@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p>🫱🏻‍🫲🏻 I would be happy to communicate with each other and use each other's experiences for our own development</p> 
 <br/>
 <br/>
-<h2>Skills <img width="40x" height="40px" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" /> </h2>
+<h2>Skills <img width="40x" height="40px" src="https://img.icons8.com/?size=100&id=JotyIGuwYDA8&format=png&color=000000" /> </h2>
 <br/>
 
 | Category | Skills |
@@ -52,10 +52,27 @@ Here are some ideas to get you started:
 |`Designlyfe`|[View](readme.com)|[View](readme.com)|`HTML` `CSS`|
 <br/>
 <br/>
-<h2>My GitHub Metrics <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-news-94.png?raw=true" /> </h2>
+<h2>My GitHub Metrics <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-statistics-50.png?raw=true" /> </h2>
 <br/>
 
+<details>
 
+  <summary>Expand</summary>
+<br/>
+
+  | Header 1 | Header 2 |
+  | -------- | -------- |
+  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paikane&show_icons=true&theme=transparent)    | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paikane&langs_count=8)   |
+  
+</details>
+<br/>
+<hr/>
+<h2>My socials <img width="40x" height="40px" src="https://img.icons8.com/?size=100&id=CLuWGSvnuOz9&format=png&color=000000" /> </h2>
+
+[![Email Badge](https://img.shields.io/badge/Gmail-efefef?style=for-the-badge&logo=gmail&logoColor=black)](mailto:test@test.com)
+
+<br/>
+<hr/>
 
 
 
