@@ -1,19 +1,5 @@
 
 
-<!--
-**paikane/paikane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 **![Banner Image](https://github.com/paikane/paikane/blob/main/banner5.gif?raw=true](https://github.com/paikane/paikane/blob/main/banner5.gif?raw=true))**  
 <br/>
 <br/>
@@ -66,15 +52,17 @@ Here are some ideas to get you started:
   
 </details>
 <br/>
-<hr/>
-<h2>My socials <img width="40x" height="40px" src="https://img.icons8.com/?size=100&id=CLuWGSvnuOz9&format=png&color=000000" /> </h2>
-
-[![Email Badge](https://img.shields.io/badge/Gmail-efefef?style=for-the-badge&logo=gmail&logoColor=black)](mailto:m.mehdi.paikane@gmail.com)
-[![Stack Overflow Badge](https://img.shields.io/badge/Telegram-efefef?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/paikane)
-
-
 <br/>
-<hr/>
+<h2>My socials <img width="40x" height="40px" src="https://img.icons8.com/?size=100&id=CLuWGSvnuOz9&format=png&color=000000" /> </h2>
+<h1 align="center">
+  
+[![Email Badge](https://img.shields.io/badge/Gmail-efefef?style=for-the-badge&logo=gmail&logoColor=black)](mailto:m.mehdi.paikane@gmail.com)
+[![telegram](https://img.shields.io/badge/Telegram-efefef?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/paikane)
+[![instagram](https://img.shields.io/badge/instagram-efefef?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/m.mehdi.paikane)
+
+</h1>
+
+<!-- THE END :) -->
 
 
 
