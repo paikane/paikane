@@ -30,14 +30,14 @@
 | `Learning` | **![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)** **![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)** |
 <br/>
 <br/>
-<h2>Projects <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-news-94.png?raw=true" /> </h2>
+<!--<h2>Projects <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-news-94.png?raw=true" /> </h2>
 <br/>
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 | ----- | --- | --- | ---- |
 |`Designlyfe`|[View](readme.com)|[View](readme.com)|`HTML` `CSS`|
 <br/>
-<br/>
+<br/>-->
 <h2>My GitHub Metrics <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-statistics-50.png?raw=true" /> </h2>
 <br/>
 
