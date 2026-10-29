@@ -1,20 +1,7 @@
 
 
 **![Banner Image](https://github.com/paikane/paikane/blob/main/banner5.gif?raw=true](https://github.com/paikane/paikane/blob/main/banner5.gif?raw=true))**  
-<br/>
-<br/>
-<h2>About Me <img width="40x" height="40px" src="https://github.com/paikane/paikane/blob/main/icons8-about-94.png?raw=true" /> </h2>
-<p>👋🏻 Hi,I'm Mehdi Paikane, a frontend developer fueled by a passion for crafting beautiful and interactive user experiences. Eager to learn new technologies and push the boundaries of what's possible on the web. Always up for a challenge and excited to collaborate on awesome projects!</p>
 
-<p>🧑🏻‍💻 I started learning front-end almost a year ago and after a year I can write dynamic websites with vanilla JavaScript.</p>
-
-<p>🎓 I am currently a computer engineering student at Shahid Madani University of Tabriz</p>
-
-<p>🎯 I am currently looking for a company to do an internship and in the near future I have decided to learn JavaScript frameworks.</p>
-
-<p>🫱🏻‍🫲🏻 I would be happy to communicate with each other and use each other's experiences for our own development</p> 
-<br/>
-<br/>
 <h2>Skills <img width="40x" height="40px" src="https://img.icons8.com/?size=100&id=JotyIGuwYDA8&format=png&color=000000" /> </h2>
 <br/>
 
